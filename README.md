@@ -1,6 +1,6 @@
 # Monte Carlo Simulations Projects
-## 1. Predicting company gross profit
-## 2. Forecasting stock prices
+## 1. Forecasting stock prices
+## 2. Predicting company gross profit
 
 ## What Is a Monte Carlo Simulation?
 Monte Carlo simulations are used to model the probability of different outcomes in a process that cannot easily be predicted due to the intervention of random variables. It is a technique used to understand the impact of risk and uncertainty in prediction and forecasting models.
